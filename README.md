@@ -12,3 +12,14 @@ Fasting Plasma Glucose (FPG)
 
 # Citation
 Diabetes diagnosis. Diabetes Diagnosis & Tests | ADA. (n.d.). https://diabetes.org/about-diabetes/diagnosis 
+
+# Public endpoint URLs for each function
+
+# GCP
+
+URL link here
+
+# AZURE
+
+URL link here
+
