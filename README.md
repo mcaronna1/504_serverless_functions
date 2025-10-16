@@ -23,3 +23,20 @@ URL link here
 
 URL link here
 
+# Loom Recording
+
+# Deployment Commands
+
+# GCP
+1. Click Write a function
+2.
+
+
+
+
+# AZURE
+1. Creaate function app
+
+# Comparison of the two clouds
+
+
