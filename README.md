@@ -8,4 +8,4 @@ Testing should be carried out in a health care setting (such as your doctor’s 
 Fasting Plasma Glucose (FPG) 
 [create](Images/FPG.jpg)
 
-
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/c8f34bc4-99e8-41d8-aef1-3024402e64e1" />
