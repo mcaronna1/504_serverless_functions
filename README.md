@@ -9,3 +9,6 @@ Fasting Plasma Glucose (FPG)
 [create](Images/FPG.jpg)
 
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/c8f34bc4-99e8-41d8-aef1-3024402e64e1" />
+
+# Citation
+Diabetes diagnosis. Diabetes Diagnosis & Tests | ADA. (n.d.). https://diabetes.org/about-diabetes/diagnosis 
