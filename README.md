@@ -1,6 +1,6 @@
 # 504_serverless_functions
 fpg_classifer
-### Lab Rules 
+# Lab Rules 
 
 There are several ways to diagnose diabetes. Each way usually needs to be repeated on a second day to diagnose diabetes.
 
