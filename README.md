@@ -22,7 +22,7 @@ https://fpg-test-esbqeqfreyfjbvej.canadacentral-01.azurewebsites.net/api/fpg?cod
 
 # Loom Recording
 
-https://www.loom.com/share/57762ce065f04beb9343216d806f6b0c?sid=bc70ed7e-c16b-4276-a568-8b4d8445c8bc
+**Recording:**[Watch on Loom](https://www.loom.com/share/57762ce065f04beb9343216d806f6b0c?sid=bc70ed7e-c16b-4276-a568-8b4d8445c8bc)
 
 # Deployment Commands
 
