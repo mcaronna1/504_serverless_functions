@@ -15,7 +15,7 @@ Diabetes diagnosis. Diabetes Diagnosis & Tests | ADA. (n.d.). https://diabetes.o
 # Public endpoint URLs for each function
 
 # GCP
-(https://python-504-506850586260.europe-west1.run.app)
+**Click URL:** [URL](https://python-504-506850586260.europe-west1.run.app)
 
 # AZURE
 
