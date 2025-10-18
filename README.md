@@ -33,7 +33,7 @@ https://www.loom.com/share/57762ce065f04beb9343216d806f6b0c?sid=bc70ed7e-c16b-42
 4. Source code edit from there
 5. Colab and Deploy
 
-# AZURE
+# AZURE 
 1. Create function app
 2. Consumption
 3. Function name
