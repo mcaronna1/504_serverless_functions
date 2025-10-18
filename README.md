@@ -18,17 +18,18 @@ Diabetes diagnosis. Diabetes Diagnosis & Tests | ADA. (n.d.). https://diabetes.o
 (https://python-504-506850586260.europe-west1.run.app)
 
 # AZURE
-
-URL link here
+https://fpg-test-esbqeqfreyfjbvej.canadacentral-01.azurewebsites.net/api/fpg?code=D9UYbL2VNOOi-XPwCBCU7bgE4r-4OPMl2XJdZQXcM7JsAzFua48HXQ==
 
 # Loom Recording
 
+https://www.loom.com/share/57762ce065f04beb9343216d806f6b0c?sid=bc70ed7e-c16b-4276-a568-8b4d8445c8bc
 
 # Deployment Commands
 
 # GCP
 1. Click Write a function
-2.
+2. FIll in nmae
+3. 
 
 
 
