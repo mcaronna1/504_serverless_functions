@@ -28,15 +28,26 @@ https://www.loom.com/share/57762ce065f04beb9343216d806f6b0c?sid=bc70ed7e-c16b-42
 
 # GCP
 1. Click Write a function
-2. FIll in nmae
-3. 
-
-
-
+2. Fill in name/region/runtime/authentication/billling/services/ingress
+3. Create
+4. Source code edit from there
+5. Colab and Deploy
 
 # AZURE
-1. Creaate function app
+1. Create function app
+2. Consumption
+3. Function name
+4. Operating system: lInux
+5. Run time: Python 3.12
+6. Region
+7. Depoyment
+8. Create function
+9. Colab Deploy
 
 # Comparison of the two clouds
-
-
+ Google Cloud Functions                                            | Azure Functions                                    |
+ ----------------------------------------------------------------- | -------------------------------------------------- |
+ Python                                                            | Python                                          
+ Trigger                                                           | Triggers function        
+ Pay for how much you use,but can use little amount                | Same — pay for what you use                        |
+ 
