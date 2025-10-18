@@ -15,11 +15,11 @@ Diabetes diagnosis. Diabetes Diagnosis & Tests | ADA. (n.d.). https://diabetes.o
 # Public endpoint URLs for each function
 
 # GCP
-**Click URL:** [URL](https://python-504-506850586260.europe-west1.run.app)
+**Click URL:** [GCP URL](https://python-504-506850586260.europe-west1.run.app)
 
 # AZURE
 
-https://fpg-test-esbqeqfreyfjbvej.canadacentral-01.azurewebsites.net/api/fpg?code=D9UYbL2VNOOi-XPwCBCU7bgE4r-4OPMl2XJdZQXcM7JsAzFua48HXQ==
+**Click URL:**[Azure URL](//fpg-test-esbqeqfreyfjbvej.canadacentral-01.azurewebsites.net/api/fpg?code=D9UYbL2VNOOi-XPwCBCU7bgE4r-4OPMl2XJdZQXcM7JsAzFua48HXQ==)
 
 # Loom Recording
 
