@@ -51,3 +51,5 @@ https://www.loom.com/share/57762ce065f04beb9343216d806f6b0c?sid=bc70ed7e-c16b-42
  Trigger                                                           | Triggers function        
  Pay for how much you use,but can use little amount                | Same — pay for what you use                        |
  
+I had a hard time working with Azure app functions because my code wouldn’t upload properly and kept showing error messages that were difficult to understand. It took me several tries to figure out what was wrong. On the other hand, working with GCP app functions was much easier. When I made changes to my code on GCP, the errors were explained in simpler terms, making it faster and less frustrating to fix problems. Because of this, if I had to choose between the two, I would prefer to work with GCP. I have also saved all of my failed attempts and error logs from working with Azure in a folder for future reference.
+ 
