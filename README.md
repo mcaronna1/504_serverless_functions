@@ -22,7 +22,7 @@ Diabetes diagnosis. Diabetes Diagnosis & Tests | ADA. (n.d.). https://diabetes.o
 URL link here
 
 # Loom Recording
-add link
+
 
 # Deployment Commands
 
